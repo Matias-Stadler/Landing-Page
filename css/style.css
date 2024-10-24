@@ -1,6 +1,6 @@
 header, footer{
-    background-color: dimgrey;
-    color: snow;
+    background-color:burlywood;
+    color: black;
 }
 .g7{
     display: flex;
@@ -48,6 +48,16 @@ body{
     justify-content: space-between;
 }
 .line{
-    border-color: chocolate;
+    border-color:burlywood;
 
+}
+.text{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight:bold;
+}
+.chems{
+    display: flex;
+    flex-direction: column;
 }
