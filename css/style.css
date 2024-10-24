@@ -1,0 +1,19 @@
+header, footer{
+    background-color: dimgrey;
+    color: snow;
+}
+.g7{
+    display: flex;
+    justify-content: flex-end;
+}
+.awv{
+    display: flex;
+    justify-content: center;
+}
+.link{
+    width: 30px;
+}
+.contactos{
+    display: flex;
+    flex-direction: column;
+}
